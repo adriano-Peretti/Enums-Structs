@@ -1,4 +1,4 @@
-# Mentorama-C#
+# Mentorama-C-Sharp
 
 Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
 Módulo: **Enums & Structs**<br/>
